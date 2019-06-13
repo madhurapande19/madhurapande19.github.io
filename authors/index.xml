@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on </title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on </description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jun 2019 17:13:01 +0530</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Madhura Pande</title>
+      <link>/authors/madhura-pande/</link>
+      <pubDate>Thu, 13 Jun 2019 17:13:01 +0530</pubDate>
+      
+      <guid>/authors/madhura-pande/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monika Ahirwar</title>
+      <link>/authors/monika-ahirwar/</link>
+      <pubDate>Thu, 13 Jun 2019 17:13:01 +0530</pubDate>
+      
+      <guid>/authors/monika-ahirwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a student currently pursuing MS by research at IIT Madras, under the guidance of Dr. Mitesh M. Khapra and Dr. Pratyush Kumar from July 2018. Prior to this, I was working in Intuit (Bengaluru) as Software Engineer in &lt;a href=&#34;http://www.mint.com&#34; target=&#34;_blank&#34;&gt;Mint&lt;/a&gt; backend team. My research interests lie under the uber-umbrella of Artifical Intelligence spanning across Natural Language Processing, Deep Learning and Reinforcement Learning.&lt;/p&gt;
+
+&lt;p&gt;Apart from this, I am fond of reading and writing and especially enjoy techno-philosophical content. I define techno-philosophy as weaving of fascinating technical principles, concepts and insights into relatable
+and ingenious philosophies. An example would be this quote, “Life is like Quicksort, it will place you at your right position in some pass. Just be patient till you get to be the pivot.”  This was written by my undergrad version back then and since that time I have been trying to improve this skill with more maturity and depth. Additionally, I am interested in Music, especially Indian Classical form.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
